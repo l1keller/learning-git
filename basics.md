@@ -6,3 +6,4 @@
 * `git commit` - upoads the staged file changes to git
 * `git diff` - shows the difference to an ealier unstaged version
 * `git log` - shows the log of your git account
+blabla
